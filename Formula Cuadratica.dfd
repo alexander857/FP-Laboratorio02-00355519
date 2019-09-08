@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Formula Cuadratica'
+4
+1
+33
+'Ingrese los valores de a, b y c'
+5
+1
+5
+a,b,c
+6
+2
+2
+X1
+26
+(-b+SQRT(b^2-4*a*c))/(2*a)
+2
+X2
+26
+(-b-SQRT(b^2-4*a*c))/(2*a)
+4
+1
+57
+'EL RESULTADO DE X1 ES:',X1,'
+
+EL RESULTADO DE X2 ES:',X2
+1

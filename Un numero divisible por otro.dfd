@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Determinar si un numero es divisible por otro'
+4
+1
+29
+'Ingrese el numero dividendo'
+5
+1
+1
+x
+4
+1
+27
+'Ingrese el numero divisor'
+5
+1
+1
+y
+7
+0
+1
+10
+x mod y =0
+4
+1
+45
+'El numero: ',x,' No es divisible entre: ' ,y
+13
+4
+1
+47
+'El numero: ' ,x, ' Si es divisible entre: ' ,y
+13
+1

@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Verificar si un Promedio de 3 números ingresados es mayor a 6'
+4
+1
+17
+'Ingrese valores'
+5
+1
+5
+x,y,z
+6
+1
+8
+promedio
+9
+(x+y+z)/3
+7
+0
+1
+11
+(x+y+z)/3>6
+4
+1
+29
+'No es mayor:',promedio,'<',6
+13
+4
+1
+29
+'Si es mayor:',promedio,'>',6
+13
+1
